@@ -31,3 +31,14 @@ Git is a distributed version control system used for tracking changes in source 
   
 JUnit is a popular testing framework for Java programming language. It is widely used for writing and running repeatable tests to ensure the correctness of Java code. JUnit provides annotations to define test methods, fixtures, and assertions, making it easy to structure and automate unit tests. It supports the creation of test suites, and its integration with tools like Maven allows for the seamless execution of tests during the build process.
 
+# Result
+
+* after testing every test case I am also printing the output like it's successful or unsuccessful in the console
+
+![Screenshot (2314)](https://github.com/ydpatel0309/Testing/assets/91671051/252567c4-bf7b-4400-a51c-d852b004da25)
+
+* JUnit output
+* 
+![Screenshot (2306)](https://github.com/ydpatel0309/Testing/assets/91671051/1a2e0b4d-f150-4f35-8e5f-ecf750f9d163)
+
+  
