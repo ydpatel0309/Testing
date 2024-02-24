@@ -14,23 +14,6 @@ Write a script to automatically login in the website using any language and auto
  
  3.) Login.
 
-# Technologies I have used
-
-* Selenium:
-  
-Selenium is an open-source framework for automating web applications. It provides a set of tools and APIs for interacting with web browsers, allowing developers and testers to automate the testing and interaction with web applications. Selenium supports various programming languages like Java, Python, C#, etc., and it can be used for functional testing as well as for browser automation.In this project I have used Java.
-
-* Maven:
-  
-Maven is a powerful build automation and project management tool. It simplifies the process of managing a project's build lifecycle, dependencies, and documentation. Maven uses a declarative approach, allowing developers to define project configurations in a simple XML file (pom.xml). It helps in managing dependencies, compiling code, running tests, and packaging applications, making the build process more efficient and consistent.
-
-* Git and GitHub:
-
-Git is a distributed version control system used for tracking changes in source code during software development. It enables collaboration among developers and allows for efficient branching, merging, and versioning of code. GitHub, on the other hand, is a web-based platform that provides hosting for Git repositories. It adds collaboration features like pull requests, code review, issue tracking, and more. Together, Git and GitHub facilitate collaborative and version-controlled software development.
-
-* JUnit:
-  
-JUnit is a popular testing framework for Java programming language. It is widely used for writing and running repeatable tests to ensure the correctness of Java code. JUnit provides annotations to define test methods, fixtures, and assertions, making it easy to structure and automate unit tests. It supports the creation of test suites, and its integration with tools like Maven allows for the seamless execution of tests during the build process.
 
 # Result
 
@@ -60,3 +43,21 @@ JUnit is a popular testing framework for Java programming language. It is widely
 4) Handle Wait and Timing Issues:
    
 * To ensure that your tests are reliable, use implicit or explicit waits to handle timing issues that may arise due to page loading or AJAX requests.
+# Technologies I have used
+
+* Selenium:
+  
+Selenium is an open-source framework for automating web applications. It provides a set of tools and APIs for interacting with web browsers, allowing developers and testers to automate the testing and interaction with web applications. Selenium supports various programming languages like Java, Python, C#, etc., and it can be used for functional testing as well as for browser automation.In this project I have used Java.
+
+* Maven:
+  
+Maven is a powerful build automation and project management tool. It simplifies the process of managing a project's build lifecycle, dependencies, and documentation. Maven uses a declarative approach, allowing developers to define project configurations in a simple XML file (pom.xml). It helps in managing dependencies, compiling code, running tests, and packaging applications, making the build process more efficient and consistent.
+
+* Git and GitHub:
+
+Git is a distributed version control system used for tracking changes in source code during software development. It enables collaboration among developers and allows for efficient branching, merging, and versioning of code. GitHub, on the other hand, is a web-based platform that provides hosting for Git repositories. It adds collaboration features like pull requests, code review, issue tracking, and more. Together, Git and GitHub facilitate collaborative and version-controlled software development.
+
+* JUnit:
+  
+JUnit is a popular testing framework for Java programming language. It is widely used for writing and running repeatable tests to ensure the correctness of Java code. JUnit provides annotations to define test methods, fixtures, and assertions, making it easy to structure and automate unit tests. It supports the creation of test suites, and its integration with tools like Maven allows for the seamless execution of tests during the build process.
+
