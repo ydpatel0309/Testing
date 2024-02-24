@@ -3,6 +3,7 @@
 
 https://github.com/ydpatel0309/Testing/assets/91671051/4175dab2-1ec6-45e1-a305-afe4f2fab05f
 
+* video link : https://drive.google.com/file/d/1l3sim3930kmNDZ-8Zzc7zO4gsF4E_zlR/view?usp=sharing
 
 * Case Study (Automation Question): 
 Write a script to automatically login in the website using any language and automation tools.
