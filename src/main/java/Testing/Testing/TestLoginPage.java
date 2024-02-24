@@ -27,12 +27,13 @@ System.setProperty("webdriver.chrome.driver","D:\\seleniumjd\\chromedriver-win64
 		Thread.sleep(3000);
 		driver.findElement(By.id("login")).click();
 		
+		Thread.sleep(3000); //for delaying execution
+		
+		//Targeting id searchBox to fill Git  
+		driver.findElement(By.id("searchBox")).sendKeys("Git");
+		
 		Thread.sleep(3000);
-		
-		driver.findElement(By.id("searchBox")).sendKeys("Ydpatel@393");
-		
-		Thread.sleep(3000);
-		
+		//Targeting id gotoStore button to move to store page
 		driver.findElement(By.id("gotoStore")).click();
 
 	}
